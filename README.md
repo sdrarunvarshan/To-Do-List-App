@@ -30,3 +30,22 @@ Here are the **official and most useful links** you should bookmark and use when
 3. After reading, close the docs and try to explain it in your own words or write a small test.
 
 Would you like me to also give you the **most important sections** you should focus on first as a beginner moving to intermediate level?
+
+Here are the **official and most useful links** for **Alembic** (you should bookmark these too):
+
+### Alembic (Official)
+- **Main Documentation**: [https://alembic.sqlalchemy.org/en/latest/](https://alembic.sqlalchemy.org/en/latest/)
+- **Tutorial (start here)**: [https://alembic.sqlalchemy.org/en/latest/tutorial.html](https://alembic.sqlalchemy.org/en/latest/tutorial.html)
+- **Auto-generating Migrations**: [https://alembic.sqlalchemy.org/en/latest/autogenerate.html](https://alembic.sqlalchemy.org/en/latest/autogenerate.html)
+- **Operations Reference** (what you can do inside `upgrade()` / `downgrade()`): [https://alembic.sqlalchemy.org/en/latest/ops.html](https://alembic.sqlalchemy.org/en/latest/ops.html)
+- **Source Code**: [https://github.com/sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
+
+---
+
+**How to use these properly (20–25 min rule):**
+
+1. When you are stuck on something (example: creating a migration, autogenerate not detecting changes, editing `env.py`, etc.), open the relevant page.
+2. Read only the section related to your problem — don’t try to read everything.
+3. After reading, close the docs and try to explain it in your own words or create a small test migration.
+
+Would you like me to also give you the **most important Alembic topics** you should focus on first as a beginner moving to intermediate level?
